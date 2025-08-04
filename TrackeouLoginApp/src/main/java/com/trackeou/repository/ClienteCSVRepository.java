@@ -12,7 +12,8 @@ public class ClienteCSVRepository implements ClienteRepository {
 
     public ClienteCSVRepository(String resource) {
         String appDir = System.getProperty("user.dir");
-        this.resource = appDir + File.separator + resource;
+        this.resource = appDir + File.separator + "TrackeouLoginApp" + File.separator + "db" + File.separator + resource;
+        System.out.println("📂 Caminho do arquivo de clientes: " + this.resource);
     }
 
     @Override
