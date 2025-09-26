@@ -1,0 +1,4 @@
+idCliente,nome,cpf,email,senhaHash,ativo,preferenciaNotificacao
+1,Mayara Araujo,12345678901,mayara@example.com,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,true,true
+2,Carlos Silva,98765432100,carlos@example.com,03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4,true,false
+3,Ana Souza,11122233344,ana@example.com,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,false,true

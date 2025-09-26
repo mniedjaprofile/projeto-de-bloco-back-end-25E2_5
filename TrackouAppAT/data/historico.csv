@@ -1,0 +1,8 @@
+idPedido,dataHora,status,descricao
+1001,2023-09-01T10:30:00,Em separação,Pedido recebido e em preparação
+1001,2023-09-02T15:00:00,Enviado,Objeto postado em Curitiba
+1001,2023-09-05T12:00:00,Em trânsito,Objeto em rota para São Paulo
+1002,2023-08-15T14:00:00,Enviado,Objeto postado em Brasília
+1002,2023-08-18T09:00:00,Em trânsito,Objeto em rota para Belo Horizonte
+1002,2023-08-20T16:00:00,Entregue,Objeto entregue ao destinatário
+1003,2023-09-05T09:15:00,Em separação,Pedido recebido

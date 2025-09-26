@@ -1,0 +1,11 @@
+timestamp,email,resultado,motivo,clienteId
+2025-09-25T05:16:12.3748444,mniedja@hotmail.com,FALHA,Credenciais inválidas,
+2025-09-25T05:17:47.8679403,mniedja@hotmail.com,FALHA,Credenciais inválidas,
+2025-09-25T05:21:07.5466678,mniedja@hotmail.com,FALHA,Credenciais inválidas,
+2025-09-25T05:22:39.6441257,mniedja@hotmail.com,FALHA,Credenciais inválidas,
+2025-09-25T05:24:45.9848624,mayara@example.com,FALHA,Credenciais inválidas,
+2025-09-25T05:49:25.662716,mayara@example.com,FALHA,Credenciais inválidas,
+2025-09-25T07:14:39.7317256,mayara@example.com,SUCESSO,Login realizado com sucesso,1
+2025-09-25T07:36:04.7609033,mayara@exemplo.com,FALHA,Credenciais inválidas,
+2025-09-25T07:36:30.0715031,mayara@example.com,SUCESSO,Login realizado com sucesso,1
+2025-09-25T23:15:54.9014755,mayara@example.com,SUCESSO,Login realizado com sucesso,1
